@@ -1,0 +1,13 @@
+{
+    "name": "thiagodsantos/car-dealer",
+    "description": "Car dealer API",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Thiago Santos",
+            "email": "thiago.dsantos@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
